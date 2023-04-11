@@ -1,0 +1,161 @@
+body{
+
+   
+    background: #DAE0E1;
+}
+
+h1 {
+
+    position: absolute;
+    width: 343px;
+    height: 75px;
+    left: 776px;
+    top: 160px;
+    
+    font-family: 'Gochi Hand';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 75px;
+    
+    color: #000000;
+    
+
+}
+
+
+.l1 {
+    position: absolute;
+width: 57px;
+height: 24px;
+left: 557px;
+top: 254px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+.l2 {
+    position: absolute;
+width: 53px;
+height: 24px;
+left: 557px;
+top: 376px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+    
+
+}
+
+.l3 {
+    position: absolute;
+width: 60px;
+height: 24px;
+left: 557px;
+top: 486px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+.l4 {
+    position: absolute;
+width: 61px;
+height: 24px;
+left: 557px;
+top: 610px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+.c1 {
+    
+    position: absolute;
+width: 710px;
+height: 62px;
+left: 557px;
+top: 293px;
+
+background: #3E91DE;
+}
+
+.c2 {
+    position: absolute;
+width: 710px;
+height: 62px;
+left: 557px;
+top: 405px;
+
+background: #3E91DE;
+}
+
+.c3 {
+    position: absolute;
+    width: 710px;
+    height: 62px;
+    left: 557px;
+    top: 525px;
+    
+    background: #3E91DE;
+}
+
+.c4 {
+    position: absolute;
+    width: 710px;
+    height: 62px;
+    left: 557px;
+    top: 649px;
+    
+    background: #3E91DE;
+}
+
+.x2 {
+
+    position: absolute;
+width: 196px;
+height: 39px;
+left: 814px;
+top: 780px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+    position: absolute;
+width: 284px;
+height: 81px;
+left: 770px;
+top: 759px;
+
+background: #02AFBA;
+}
